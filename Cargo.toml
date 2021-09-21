@@ -1,0 +1,15 @@
+[package]
+name = "organizer"
+version = "0.0.1"
+edition = "2018"
+authors = ["Florius <j@florius.com.ar>"]
+description = "File system organizer"
+homepage = "https://florius.github.io/organizer"
+repository = "https://github.com/jazcarate/organizer"
+documentation = "https://dokan-dev.github.io/dokan-rust-doc/html/dokan/"
+readme = "README.md"
+license = "Unlicense"
+
+[dependencies]
+dokan = "0.2.0+dokan150"
+clap = "2.33.3"
