@@ -1,3 +1,3 @@
-## organizer
+## WIP
 
-A Windows utility to organize files.
+This is a work in progress 🙂
